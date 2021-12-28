@@ -1,0 +1,6 @@
+.banner{
+    width:100%;
+    mask-image:linear-gradient(to bottom,black, grba(0,0,0,0));
+    z-index:-1;
+    margin-bottom:-200px;
+}
